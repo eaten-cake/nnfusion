@@ -1,0 +1,4 @@
+interface:
+  display_name: "安装 Roller NNFusion"
+  short_description: "安装并验证 Roller artifact 仓库。"
+  default_prompt: "安装 Roller 仓库并跑通 gemm(4096,4096,4096)。"
