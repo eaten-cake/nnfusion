@@ -1,0 +1,3 @@
+[submodule "artifacts/.deps/tvm-0.8"]
+	path = artifacts/.deps/tvm-0.8
+	url = https://github.com/apache/tvm
